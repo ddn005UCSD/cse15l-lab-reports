@@ -9,3 +9,10 @@ _Mama mia! It's in italics!_ <br>
 ---
 Trapped in here D:
 ---
+`Smooth moves`, Charlie!
+```
+It's a codey code world out there, man!
+```
+1. Nothing wrong with me
+2. Nothing Wrong with me
+3. Nothing Wrong With Me
