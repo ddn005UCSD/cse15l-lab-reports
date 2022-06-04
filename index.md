@@ -7,6 +7,7 @@
 
 [Lab Report 4](lab-report-4-week-8.md)
 
+[Lab Report 5](lab-report-5-week-10.md)
 
 <br><br><br><br><br><br><br><br><br><br>
 # Literally the best game ever made V V V
